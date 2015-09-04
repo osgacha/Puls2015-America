@@ -6,7 +6,7 @@ SISTEMA DE CONTROL DE VERSIONES
 
 Archivos
 FTP ---> Hosting /public_html/
-www.fuckencio.com
+www.osgacha.com
 
 ======
 
